@@ -1,0 +1,6 @@
+@BasicVaultAuthentication_HostAddress = http://localhost:5221
+
+GET {{BasicVaultAuthentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
